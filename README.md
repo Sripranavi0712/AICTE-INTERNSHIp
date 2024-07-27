@@ -79,7 +79,7 @@ Contributions to this project are welcome. Please fork the repository and submit
 
 For any inquiries or further assistance regarding this project, please contact:
 
-- **Name**: Shanmukh Anala
-- **Email**: [shanmukh868@gmail.com](mailto:shanmukh868@gmail.com)
+- **Name**: Patibandla Sri Pranavi
+- **Email**: [patibandlasripranavi2004@gmail.com](mailto:patibandlasripranavi2004@gmail.com)
 
 
